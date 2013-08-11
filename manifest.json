@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+
+  "name": "IRCCloud 中文化",
+  "description": "IRCCloud.com 中文化介面",
+  "version": "1.0",
+
+  "permissions": [
+    "http://*.irccloud.com/*",
+    "https://*.irccloud.com/*"
+  ],
+
+  "content_scripts" : [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "jquery-2.0.3.min.js",
+        "content-script.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ]
+}
