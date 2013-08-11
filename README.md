@@ -10,7 +10,6 @@ Screenshot
 ![IRCCloud zh-TW Screnshot](https://raw.github.com/dannvix/IRCCloud_zh-TW/master/docs/IRCCloud_zh-TW.png)
 
 
-
 License
 -------
 Licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
