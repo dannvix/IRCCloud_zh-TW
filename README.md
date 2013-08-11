@@ -4,6 +4,13 @@ IRCCloud 正體中文化
 
 [IRCCloud](http://irccloud.com) is an awesome web-based IRC client which keeps the connections after the page closed. However, it comes with only English interface so far (Aug '13). This Chrome extension basically provides Traditional Chinese language pack for IRCCloud.
 
+
+Screenshot
+----------
+![IRCCloud zh-TW Screnshot](https://raw.github.com/dannvix/IRCCloud_zh-TW/master/docs/IRCCloud_zh-TW.png)
+
+
+
 License
 -------
 Licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
